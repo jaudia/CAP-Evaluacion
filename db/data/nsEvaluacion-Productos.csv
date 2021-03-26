@@ -1,17 +1,17 @@
-ProductID;ProductName;UnitPrice;UnitsInStock
-1;Chai;18;39
-2;Chang;19;17
-3;Alfajor Havanna;90;68
+ProductID;ProductName;UnitPrice;UnitsInStock;UnitsOnOrder
+1;Chai;18;39;0
+2;Chang;19;17;0
+3;Alfajor Havanna;90;68;0
 5;Chef Anton's Gumbo Mix;21.35;0
-7;Uncle Bob's Organic Dried Pears;30;15
-8;Northwoods Cranberry Sauce;40;6
-9;Mishi Kobe Niku;97;29
-11;Queso Cabrales;21;60
-14;Chef Anton's Cajun Seasoning;22;53
-22;Aniseed Syrup;10;200
-41;Caramelo Sugus;8;500
-42;Manteca La Serenisima;130;50
-51;Bon o Bon;25;150
-57;Chicle Bazooka;8;300
-65;Grandma's Boysenberry Spread;25;120
-72;Ikura;31;140
+7;Uncle Bob's Organic Dried Pears;30;15;0
+8;Northwoods Cranberry Sauce;40;6;0
+9;Mishi Kobe Niku;97;29;0
+11;Queso Cabrales;21;60;12
+14;Chef Anton's Cajun Seasoning;22;53;9
+22;Aniseed Syrup;10;200;6
+41;Caramelo Sugus;8;500;10
+42;Manteca La Serenisima;130;50;10
+51;Bon o Bon;25;150;75
+57;Chicle Bazooka;8;300;15
+65;Grandma's Boysenberry Spread;25;120;35
+72;Ikura;31;140;5
